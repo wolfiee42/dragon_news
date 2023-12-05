@@ -33,7 +33,7 @@ const navItems = [
     },
     {
         route: "Category",
-        pathname: "/category",
+        pathname: "/categories/news?category=All-News",
     },
     {
         route: "News",
